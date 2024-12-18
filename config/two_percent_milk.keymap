@@ -28,5 +28,11 @@
 &kp N3  &kp N4
             >;
         };
+
+        layer_3 {
+            bindings = <
+&kp N3  &kp N4
+            >;
+        };
     };
 };
