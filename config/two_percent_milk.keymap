@@ -13,25 +13,25 @@
 
         default_layer {
             bindings = <
-&kp X  &kp Z &kp X  &kp Z
+&kp D  &kp Z
             >;
         };
 
         layer_1 {
             bindings = <
-&kp N1  &kp N2 &kp X  &kp Z
+&kp N1  &kp N2
             >;
         };
 
         layer_2 {
             bindings = <
-&kp N3  &kp N4 &kp X  &kp Z
+&kp N3  &kp N4
             >;
         };
 
         layer_3 {
             bindings = <
-&kp N3  &kp N4 &kp X  &kp Z
+&kp N3  &kp N4
             >;
         };
     };
